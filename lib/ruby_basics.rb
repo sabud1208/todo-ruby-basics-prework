@@ -33,3 +33,4 @@ assign_variable(person)
 puts argue(phrase)
 puts greeting(greeting, name)
 puts return_a_value
+puts last_evaluated_value
