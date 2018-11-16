@@ -28,7 +28,6 @@ end
 
 def pizza_party(cheese)
   cheese
-  return "#{cheese}"
 end
 
 person= "Bob"
