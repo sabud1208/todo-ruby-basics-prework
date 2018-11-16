@@ -27,8 +27,7 @@ def last_evaluated_value
 end
 
 def pizza_party(cheese)
-  default = "#{cheese}"
-  return default
+  cheese
 end
 
 person= "Bob"
