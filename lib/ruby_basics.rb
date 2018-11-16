@@ -26,8 +26,8 @@ def last_evaluated_value
  return saying
 end
 
-def pizza_party(cheese)
-  "cheese"
+def pizza_party("cheese")
+  "#{cheese}"
 end
 
 person= "Bob"
