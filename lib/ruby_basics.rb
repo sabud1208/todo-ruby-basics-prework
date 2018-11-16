@@ -28,7 +28,6 @@ end
 
 def pizza_party(default)
   default = "cheese"
-  return default
 end
 
 person= "Bob"
