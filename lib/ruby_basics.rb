@@ -28,4 +28,4 @@ def pizza_party
 end
 
 puts division(42, 7)
-assign_variable("Bob")
+assign_variable(value)
