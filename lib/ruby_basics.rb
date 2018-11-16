@@ -10,10 +10,9 @@ phrase = "I'm right and you are wrong!"
 def argue(phrase)
   phrase
 end
-
-def greeting(greeting, name)
 name= "Bobby"
 greeting= "Hello,"
+def greeting(greeting, name)
  return "#{greeting} + #{name}"
 end
 
