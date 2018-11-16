@@ -9,7 +9,7 @@ end
 
 phrase = "I'm right and you are wrong!"
 def argue(phrase)
- puts phrase
+  phrase
 end
 
 def greeting
