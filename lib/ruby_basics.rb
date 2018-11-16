@@ -26,7 +26,7 @@ def last_evaluated_value
  return saying
 end
 
-def pizza_party(cheese)
+def pizza_party(default)
   default = "cheese"
   return default
 end
