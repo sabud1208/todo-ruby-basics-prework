@@ -27,8 +27,9 @@ def last_evaluated_value
 end
 
 def pizza_party(cheese)
-  puts "#{cheese}"
+  return "#{cheese}"
 end
+
 person= "Bob"
 puts division(42, 7)
 assign_variable(person)
