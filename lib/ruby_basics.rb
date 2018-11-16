@@ -25,7 +25,7 @@ def last_evaluated_value
  saying = "expert"
  return saying
 end
-
+default= "cheese"
 def pizza_party(cheese)
   "#{cheese}"
 end
