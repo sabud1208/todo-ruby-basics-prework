@@ -26,8 +26,8 @@ def last_evaluated_value
  return saying
 end
 
-def pizza_party
-
+def pizza_party(cheese)
+  puts "#{cheese}"
 end
 person= "Bob"
 puts division(42, 7)
