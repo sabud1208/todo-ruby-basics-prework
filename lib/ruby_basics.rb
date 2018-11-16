@@ -30,4 +30,4 @@ end
 person= "Bob"
 puts division(42, 7)
 assign_variable(person)
-argue(phrase)
+puts argue(phrase)
