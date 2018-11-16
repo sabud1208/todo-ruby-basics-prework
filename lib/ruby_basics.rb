@@ -17,7 +17,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value
-  nice
+  "nice"
 end
 
 def last_evaluated_value
@@ -32,3 +32,4 @@ puts division(42, 7)
 assign_variable(person)
 puts argue(phrase)
 puts greeting(greeting, name)
+puts return_a_value
