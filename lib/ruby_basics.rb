@@ -32,3 +32,4 @@ person= "Bob"
 puts division(42, 7)
 assign_variable(person)
 puts argue(phrase)
+puts greeting(greeting, name)
