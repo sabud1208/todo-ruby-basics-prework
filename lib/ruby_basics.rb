@@ -37,5 +37,5 @@ puts argue(phrase)
 puts greeting(greeting, name)
 puts return_a_value
 puts last_evaluated_value
-puts pizza_party(cheese)
+puts pizza_party(default)
 puts pizza_party("LOVE")
